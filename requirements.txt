@@ -1,0 +1,6 @@
+Flask
+Flask-CORS
+youtube-transcript-api
+nltk
+transformers
+torch
